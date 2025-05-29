@@ -1,4 +1,5 @@
-exit.s
+# exit.s
+________________________________________________________________________________________________________________
  This snippet of ARM assembly code is a simple program that demonstrates a system call to exit the program. 
  Let's break down each part of the code:
  1. `.global _start`: This directive declares `_start` as a global symbol, making it accessible to the linker.
@@ -22,3 +23,4 @@ exit.s
 
 In summary, this program sets the exit status code to `42` and then makes a system call to exit the program. The value `42` 
 is passed as the exit status, which can be checked by the operating system or a parent process to determine how the program terminated.
+______________________________________________________________________________________________________________
