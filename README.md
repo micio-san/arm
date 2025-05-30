@@ -25,14 +25,14 @@ In summary, this program sets the exit status code to `42` and then makes a syst
 is passed as the exit status, which can be checked by the operating system or a parent process to determine how the program terminated.
 ______________________________________________________________________________________________________________
 
-# print hello world to the screen
+## print hello world to the screen
 
-# print the program arguments to the screen
+## print the program arguments to the screen
 
-# print the first <arg1> fibonacci numbers
+## print the first <arg1> fibonacci numbers
 
-# write an RPN calculator for single-character numbers (e.g. +45 should evaluate to 9)
+## write an RPN calculator for single-character numbers (e.g. +45 should evaluate to 9)
 
-# write a parser to recognize balanced parentheses
+## write a parser to recognize balanced parentheses
 
-# write a simple little lisp dialect
+## write a simple little lisp dialect
