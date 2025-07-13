@@ -1,5 +1,5 @@
-a **word** is 32bits worth of data, it's the max size of data that can be stored
-*from r0 t0 r6* general purpose,
+a **word** is 32bits worth of data, it's the max size of data that can be stored in 32 bit architecture \
+**from r0 t0 r6** general purpose \
 *r7* is system calls
 	//sp is related to stack pointers, the memory in the ram
 	//it containst the most complex and bigger data
