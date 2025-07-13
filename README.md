@@ -5,7 +5,8 @@ a **word** is 32bits worth of data, it's the max size of data that can be stored
 **lr** register is known as link register, it stores the location a function has to return back to \
 **pc** program counter, it keeps counter of the location of the next function to be executed \
 **cpsr** is used to store information about a program carries, negative, overflows \
- \
+________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________
 # exit.s
 ________________________________________________________________________________________________________________
  This snippet of ARM assembly code is a simple program that demonstrates a system call to exit the program. 
