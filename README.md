@@ -1,13 +1,13 @@
-	//a word is 32bits worth of data, it's the max size of 
-	//data that can be stored
-	//from r0 t0 r6 general purpose, r7 is system calls
+a *word* is 32bits worth of data, it's the max size of data that can be stored
+*from r0 t0 r6* general purpose,
+*r7* is system calls
 	//sp is related to stack pointers, the memory in the ram
 	//it containst the most complex and bigger data
 	//lr register is known as link register, it stores the
 	//location a function has to return back to
 	//pc program counter, it keeps counter of the location
 	//of the next function to be executed
- #cpsr# is used to store information about a program
+ *cpsr* is used to store information about a program
 	carris, negative, overflows
 
 # exit.s
